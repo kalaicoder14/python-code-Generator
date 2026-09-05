@@ -1,12 +1,17 @@
-Python Code Generator
+#  Python Code Generator
 
 An AI-powered Python code generation and debugging application built with **Streamlit**, **Hugging Face Transformers**, and the **Qwen2.5-Coder** model.
 
 The application allows users to select a Python programming problem or enter their own problem. The AI generates Python code, checks its syntax, executes the code with user input, detects runtime errors, and can automatically fix the generated code.
 
+## 🚀 Live Demo
 
 
-Features
+**Live App:** 
+
+
+
+## 🚀 Features
 
 - 🤖 AI-powered Python code generation
 - 📝 Predefined Python programming problems
@@ -24,7 +29,7 @@ Features
 
 
 
- AI Model
+## 🧠 AI Model
 
 This project uses:
 
@@ -33,8 +38,7 @@ This project uses:
 The model is loaded using Hugging Face Transformers and PyTorch.
 
 
-
- Technologies Used
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -48,7 +52,7 @@ The model is loaded using Hugging Face Transformers and PyTorch.
 
 
 
- 📂 Project Structure
+## 📂 Project Structure
 
 
 AI-Python-Code-Generator/
